@@ -29,7 +29,6 @@ The model achieved a **Validation Accuracy of 88%** on complex cellular data.
 ### Learning Curves
 *Evolution of the loss function and accuracy over the epochs:*
 
-![Loss/Accuracy Learning Curves]
 <img width="567" height="455" alt="a4dc8ee3-889c-46a8-ae63-f8f3ee43fd04" src="https://github.com/user-attachments/assets/a9441879-6cea-423f-bbaf-3f14b78ea00c" />
 <img width="576" height="455" alt="842092e9-84fc-4101-ab73-e8ef99f26722" src="https://github.com/user-attachments/assets/57ef8f73-782a-4b71-8bf4-b0b6801ac07c" />
 
@@ -37,7 +36,7 @@ The model achieved a **Validation Accuracy of 88%** on complex cellular data.
 ### Prediction Examples
 *Comparison between raw microscopy images and the model's predictions:*
 
-![Examples of mitochondria predictions]<img width="788" height="702" alt="download" src="https://github.com/user-attachments/assets/21509e9e-d24c-49c3-a1ff-1d4d755b2608" />
+<img width="788" height="702" alt="download" src="https://github.com/user-attachments/assets/21509e9e-d24c-49c3-a1ff-1d4d755b2608" />
 
 
 ## 🚀 Usage
