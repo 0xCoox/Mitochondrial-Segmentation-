@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([INSERT: YOUR COLAB NOTEBOOK LINK HERE])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YAB6wLmHx2t8WpbgldcQNXFBrOkCnu9F)
 
 ## 📌 Project Overview
 This project falls within the field of **Cellular Imaging and Healthcare AI**. The objective is to automatically recognize and identify various cellular organelles (such as mitochondria) from FIB/SEM electron microscopy images. 
